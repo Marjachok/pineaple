@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/pineapple/static/css/main.c23f12f8.css",
+    "main.js": "/pineapple/static/js/main.00031edb.js",
+    "static/js/787.b4dfd157.chunk.js": "/pineapple/static/js/787.b4dfd157.chunk.js",
+    "static/media/bg.png": "/pineapple/static/media/bg.ffb0235bcb2a588f12b4.png",
+    "static/media/image_summer (2).png": "/pineapple/static/media/image_summer (2).76f939b63a8709890be5.png",
+    "static/media/image_summer (1).png": "/pineapple/static/media/image_summer (1).8e6c0a6f8e6b323fdcb9.png",
+    "index.html": "/pineapple/index.html",
+    "main.c23f12f8.css.map": "/pineapple/static/css/main.c23f12f8.css.map",
+    "main.00031edb.js.map": "/pineapple/static/js/main.00031edb.js.map",
+    "787.b4dfd157.chunk.js.map": "/pineapple/static/js/787.b4dfd157.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c23f12f8.css",
+    "static/js/main.00031edb.js"
+  ]
+}
